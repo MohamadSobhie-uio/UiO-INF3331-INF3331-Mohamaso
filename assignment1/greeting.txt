@@ -1,1 +1,1 @@
-more friendly greeting :D
+less friendly greeting :D
